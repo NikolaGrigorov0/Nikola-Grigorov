@@ -70,8 +70,8 @@ Built and presented a Unity-based game under strict time constraints.
 ## 📫 Contact Me
 
 - 📧 Email: nikola.grigorov20@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nikola-grigorov-750578177/
-- 🌐 Portfolio: (Will Add Soon)
+- 💼 LinkedIn: [https://www.linkedin.com/in/nikola-grigorov-750578177/]
+- 🌐 Portfolio: [https://nikola-grigorov-portfolio.vercel.app/]
 
 ---
 
